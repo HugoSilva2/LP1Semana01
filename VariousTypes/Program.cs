@@ -32,6 +32,13 @@ namespace VariousTypes
             Console.WriteLine(pi);
             Console.WriteLine(something);
             Console.WriteLine(cool);
+
+            //Boolean Variables
+            bool verdade = 70>0;
+            bool falso = false;
+
+            Console.WriteLine(verdade);
+            Console.WriteLine(falso);
         }
     }
 }

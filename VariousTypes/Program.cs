@@ -24,6 +24,14 @@ namespace VariousTypes
             Console.WriteLine(omega);
             Console.WriteLine(star);
 
+            //Real Variables
+            float pi = 3.1415f;
+            decimal something = 1_352.1556m;
+            long cool = 1_985_151_134L;
+
+            Console.WriteLine(pi);
+            Console.WriteLine(something);
+            Console.WriteLine(cool);
         }
     }
 }
